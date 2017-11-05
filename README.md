@@ -16,6 +16,24 @@ Meeting Time: MWF 9:00-9:50am in ECCR 105
 
 https://gitter.im/cucs-numpde/Lobby
 
+## Homeworks
+
+## Homework 3: due 2018-11-03
+Announced on 2017-10-25 in FD2D.ipynb.  Solves a nonlinear elliptic
+equation using Picard and Newton-Krylov methods.
+
+## Homework 2: due 2017-10-18
+Announced on 2017-10-09 in FDTransient.ipynb.  Solves a nonlinear ODE
+using an adaptive Runge-Kutta method.
+
+### Homework 1: due 2017-09-25
+Announced on 2017-09-25 in FDHighOrder.ipynb.  Solves second order ODE
+using Chebyshev methods.
+
+### Homework 0: due 2017-09-13
+Announced on 2017-09-06 in FiniteDifference.ipynb.  Experiments with
+finite difference methods on arbitrarily spaced grids.
+
 ## News
 
 * will be announced here
