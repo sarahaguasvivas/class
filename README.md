@@ -1,3 +1,3 @@
-## You can find my final project in the following commit:
+## See Final Project Here:
 https://github.com/sarahaguasvivas/source-local-board
 
